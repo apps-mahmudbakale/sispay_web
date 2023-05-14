@@ -49,15 +49,15 @@
                         <div class="col-lg-8 col-md-12">
                             <div class="header-top-left">
                                 <ul class="contact-info list-style">
-                                    <li><i class="flaticon-call"></i> <a href="tel:02459271449">(+024) 592 71 449</a>
+                                    <li><i class="flaticon-call"></i> <a href="tel:08032392960">(+234) 8032392960</a>
                                     </li>
                                     <li><i class="flaticon-email-1"></i> <a
-                                            href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#9ff7faf3f3f0dfedfee7feb1fcf0f2"><span
-                                                class="__cf_email__"
-                                                data-cfemail="3159545d5d5e71435049501f525e5c">[email&#160;protected]</span></a>
+                                            href="https://sispaynig@gmail.com><span
+                                                class="_cf_email_"
+                                                data-cfemail="sispaynig@gmail.com">[sispaynig@gmail.com]</span></a>
                                     </li>
                                     <li><i class="flaticon-pin"></i>
-                                        <p>St. Here Mandalay, New York, U.K</p>
+                                        <p>Daura, Katsina State, NG</p>
                                     </li>
                                 </ul>
                             </div>
@@ -103,7 +103,7 @@
                                 </div>
                                 &nbsp; &nbsp; --}}
                                 <div class="header-btn lg-none">
-                                    <a href="register.html" class="btn style1">Join SISPAY</a>
+                                    <a href="register.html" class="btn style1">join SISPAY</a>
                                 </div>
                             </div>
                         </div>
@@ -148,10 +148,10 @@
                             <div class="col-lg-6">
                                 <div class="hero-content">
                                     <span>Simple. Transparent. Secure </span>
-                                    <h1>Fast & Secure Online Money Transfer</h1>
-                                    <p>Dea of denouncing pleasure and praising pain was born and lete system, and
-                                        expound the ac teachings aitems to sed quia non numquam amet sit dolor.</p>
-                                    <a href="service-one.html" class="btn style1">Join SIS PAY</a>
+                                    <h1>Fast & Secure Online Money Transactions</h1>
+                                    <p> This is SISPAY                            
+                                         we Empowered and support Business in the Cashless Era easily and securely.</p>
+                                    <a href="service-one.html" class="btn style1">join SIS PAY</a>
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -169,9 +169,8 @@
                                 <div class="hero-content">
                                     <span>Reliable. Zero Service Charge </span>
                                     <h1>Move Your Money In Easy Secured Steps</h1>
-                                    <p>Dea of denouncing pleasure and praising pain was born and lete system, and
-                                        expound the ac teachings aitems to sed quia non numquam amet sit dolor.</p>
-                                    <a href="service-one.html" class="btn style1">SIS PAY</a>
+                                    <p>With Sispay your money is secured and always accessible.</p>
+                                    <a href="service-one.html" class="btn style1">joinSIS PAY</a>
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -189,8 +188,7 @@
                                 <div class="hero-content">
                                     <span>Easy. Fastest . Secure </span>
                                     <h1>Secured &amp; Easy Online Payment Solution </h1>
-                                    <p>Dea of denouncing pleasure and praising pain was born and lete system, and
-                                        expound the ac teachings aitems to sed quia non numquam amet sit dolor.</p>
+                                    <p>we Empowered and support Business in the Cashless Era easily and securely.</p>
                                     <a href="service-one.html" class="btn style1">SIS PAY</a>
                                 </div>
                             </div>
@@ -223,17 +221,17 @@
                             <img src="assets/img/about/about-shape-3.png" alt="Image" class="about-shape-three">
                             <div class="content-title style1">
                                 <span>Smart Banking</span>
-                                <h2>The Better Way To Save &amp; Invest Online Banking</h2>
-                                <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have
-                                    suffered alteration in some form, by injected humur or randomise words which don't
-                                    sure amet sit dolor quras alto lorem.</p>
+                                <h2>The Better Way To make Cashless Transactions</h2>
+                                <p>With just a SISPAY smartcard reader using your phone you can:
+                                    
+                                    .</p>
                             </div>
                             <ul class="content-feature-list style1 list-style">
-                                <li><span><i class="flaticon-tick"></i></span>Cards that work all across the world.
+                                <li><span><i class="flaticon-tick"></i></span>Withdraw money from your card easily.
                                 </li>
-                                <li><span><i class="flaticon-tick"></i></span>Highest Returns on your investments.</li>
-                                <li><span><i class="flaticon-tick"></i></span>No ATM fees. No minimum balance. No
-                                    overdrafts.</li>
+                                <li><span><i class="flaticon-tick"></i></span>Transfer Money from your card affordily.</li>
+                                <li><span><i class="flaticon-tick"></i></span>Perform other services such as Buying Airtime, data, pay bills and many
+                                    more.</li>
                             </ul>
                             <a href="about.html" class="btn style1">More About us</a>
                         </div>
@@ -243,52 +241,7 @@
         </section>
 
 
-        <section class="feature-wrap pt-100 pb-75 bg-albastor">
-            <div class="container">
-                <div class="section-title style1 text-center mb-40">
-                    <span>Our Feature</span>
-                    <h2>Payment Services Worldwide</h2>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="feature-card style1">
-                            <div class="feature-info">
-                                <div class="feature-title">
-                                    <span><img src="assets/img/feature/feature-icon-4.png" alt="Image"></span>
-                                    <h3>Protect Your Card</h3>
-                                </div>
-                                <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
-                                    endis velit sed fuga volup tation sit praising pain.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="feature-card style1">
-                            <div class="feature-info">
-                                <div class="feature-title">
-                                    <span><img src="assets/img/feature/feature-icon-5.png" alt="Image"></span>
-                                    <h3>Send Money</h3>
-                                </div>
-                                <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
-                                    endis velit sed fuga volup tation sit praising pain.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="feature-card style1">
-                            <div class="feature-info">
-                                <div class="feature-title">
-                                    <span><img src="assets/img/feature/feature-icon-6.png" alt="Image"></span>
-                                    <h3>Online Banking</h3>
-                                </div>
-                                <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
-                                    endis velit sed fuga volup tation sit praising pain.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
 
         <section class="security-wrap ptb-100">
@@ -299,29 +252,11 @@
                             <div class="content-title style1">
                                 <span>Banking Security</span>
                                 <h2>The Safest Way To Transact Your Money Fast</h2>
-                                <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have
-                                    suffered alteration in some form, by injected humur or randomise words which don't
-                                    sure amet sit dolor quras alto lorem.</p>
+                                
                             </div>
-                            <div class="feature-item-wrap">
-                                <div class="feature-item">
-                                    <div class="feature-icon">
-                                        <img src="assets/img/security/security-icon-1.png" alt="Image">
-                                    </div>
+                            
                                     <div class="feature-text">
-                                        <h3>Pay Online Securely</h3>
-                                        <p>Vestibulum ac diam sit amet quam vehicula elemen tum sed sit amet dui
-                                            praesent sapien pellen tesque .</p>
-                                    </div>
-                                </div>
-                                <div class="feature-item">
-                                    <div class="feature-icon">
-                                        <img src="assets/img/security/security-icon-2.png" alt="Image">
-                                    </div>
-                                    <div class="feature-text">
-                                        <h3>Convert Your Money In Seconds</h3>
-                                        <p>Vestibulum ac diam sit amet quam vehicula elemen tum sed sit amet dui
-                                            praesent sapien pellen tesque.</p>
+                                      
                                     </div>
                                 </div>
                             </div>
@@ -349,37 +284,9 @@
                             <div class="col-md-6 mmt-45">
                                 <div class="service-card style1">
                                     <span class="service-icon">
-                                        <img src="assets/img/service/service-icon-1.png" alt="Image">
+                                        
                                     </span>
-                                    <h3><a href="service-details.html">Deadline Reminders</a></h3>
-                                    <p>Lorem ipsum dolor sit ametus situlo consec tetur adicingus elittque coris sapite
-                                        illo sit.</p>
-                                </div>
-                                <div class="service-card style1">
-                                    <span class="service-icon">
-                                        <img src="assets/img/service/service-icon-2.png" alt="Image">
-                                    </span>
-                                    <h3><a href="service-details.html">Drag Functionality</a></h3>
-                                    <p>Lorem ipsum dolor sit ametus situlo consec tetur adicingus elittque coris sapite
-                                        illo sit.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="service-card style1">
-                                    <span class="service-icon">
-                                        <img src="assets/img/service/service-icon-3.png" alt="Image">
-                                    </span>
-                                    <h3><a href="service-details.html">Simple Dashboard</a></h3>
-                                    <p>Lorem ipsum dolor sit ametus situlo consec tetur adicingus elittque coris sapite
-                                        illo sit.</p>
-                                </div>
-                                <div class="service-card style1">
-                                    <span class="service-icon">
-                                        <img src="assets/img/service/service-icon-4.png" alt="Image">
-                                    </span>
-                                    <h3><a href="service-details.html">Email Notification</a></h3>
-                                    <p>Lorem ipsum dolor sit ametus situlo consec tetur adicingus elittque coris sapite
-                                        illo sit.</p>
+                                  
                                 </div>
                             </div>
                         </div>
@@ -388,12 +295,8 @@
                         <div class="service-content">
                             <div class="content-title style1">
                                 <span>Our Services</span>
-                                <h2>Providing Services For Last 25 Years With Reputation</h2>
-                                <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have
-                                    suffered alteration in some form, by injected humur or randomise words which don't
-                                    sure amet sit dolor quras alto lorem.</p>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias id illum nam
-                                    eligendi ut porro iusto sunt, cupiditate repudiandae ipsam.</p>
+                                <h2>Sispay tirelesly Providing 24 hours Services each an every Day</h2>
+                                
                             </div>
                             <a href="service-one.html" class="btn style1">View All Services</a>
                         </div>
@@ -417,9 +320,7 @@
                             <div class="content-title style1">
                                 <span>Download Our Mobile App</span>
                                 <h2>You Can Find All Things You Need In Our App</h2>
-                                <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have
-                                    suffered alteration in some form, by injected humur or randomise words which don't
-                                    sure amet sit dolor quras alto lorem.</p>
+                                    
                             </div>
                             <div class="app-btn">
                                 <a href="https://www.apple.com/app-store/"><img src="assets/img/apple-store.png"
@@ -443,9 +344,7 @@
                                 <img src="{{asset('logo.png')}}" alt="Image" style="width:230px;">
                             </a>
                             <p class="comp-desc">
-                                On the other hand, we denounce whteous indig nation and dislike men wh beguiled moraized
-                                er hand consec teturus adipis iscing elit eiusmod tempordunt labore dolore magna aliqua
-                                consector tetur adip iscing.
+                            We have hardware device inbuilt with the autorun Fintech software that can allow smartphones to read ATM cards. The device will allow users to insert their ATM cards into their smartphones, enabling them to make cashless transactions easily.
                             </p>
                             <div class="social-link">
                                 <ul class="social-profile list-style style1">
@@ -518,42 +417,7 @@
                     </div>
                     <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6">
                         <div class="footer-widget">
-                            <h3 class="footer-widget-title">Products</h3>
-                            <ul class="footer-menu list-style">
-                                <li>
-                                    <a href="service-one.html">
-                                        <i class="flaticon-next"></i>
-                                        Online Payment
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="service-one.html">
-                                        <i class="flaticon-next"></i>
-                                        Deposit Skim
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="service-one.html">
-                                        <i class="flaticon-next"></i>
-                                        Online Shopping
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="service-one.html">
-                                        <i class="flaticon-next"></i>
-                                        Master Card
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="service-one.html">
-                                        <i class="flaticon-next"></i>
-                                        Receive Money
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="service-one.html">
-                                        <i class="flaticon-next"></i>
-                                        Affiliate Program
+                            
                                     </a>
                                 </li>
                             </ul>
@@ -561,19 +425,19 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                         <div class="footer-widget">
-                            <h3 class="footer-widget-title">Subscribe</h3>
-                            <p class="newsletter-text">Tablished fact that a reader will be distrated by the readable
+                            <h3 class="footer-widget-title">Suggestion</h3>
+                            <p class="newsletter-text">Make your Suggestion here
                                 content</p>
                             <form action="#" class="newsletter-form">
                                 <input type="email" placeholder="Your Email">
-                                <button type="button">Subscribe</button>
+                                <button type="button">Submit</button>
                             </form>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="copyright-text">
-                <p> <i class="ri-copyright-line"></i>{{date('Y')}} SIS PAY. All Rights Reserved </p>
+                <p> <i class="ri-copyright-line"></i>{{date('Y')}} SISPAY. All Rights Reserved </p>
             </div>
         </footer>
 

@@ -70,7 +70,7 @@
                     <nav class="navbar navbar-expand-md navbar-light">
                         <a class="navbar-brand" href="index.html">
                             <img class="logo-light" src="{{ asset('logo.png') }}" alt="logo" style="width:230px;">
-                            <img class="logo-dark" src="{{ asset('logo.png') }}" alt="logo" style="width:230px;">
+                            <img class="logo-dark" src="{{ asset('logo-white.png') }}" alt="logo" style="width:230px;">
                         </a>
                         <div class="collapse navbar-collapse main-menu-wrap" id="navbarSupportedContent">
                             <div class="menu-close xl-none">
@@ -431,7 +431,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="footer-widget">
                         <a href="index.html" class="footer-logo">
-                            <img src="{{ asset('logo.png') }}" alt="Image" style="width:230px;">
+                            <img src="{{ asset('logo-white.png') }}" alt="Image" style="width:230px;">
                         </a>
                         <p class="comp-desc">
                             We have hardware device inbuilt with the autorun Fintech software that can allow smartphones

@@ -357,34 +357,100 @@
           </div>
         </div>
       </section>
-    <section class="service-wrap style1 pt-100 pb-75">
+      <section class="service-wrap style1 pt-100 pb-75">
         <div class="container">
-            <div class="row gx-5 align-items-center">
-                <div class="col-xl-6 col-lg-12 service-card-wrap">
-                    <div class="row">
-                        <div class="col-md-6 mmt-45">
-                            <div class="service-card style1">
-                                <span class="service-icon">
-
-                                </span>
-
-                            </div>
-                        </div>
-                    </div>
+          <div class="row gx-5 align-items-center">
+            <div class="col-xl-6 col-lg-12 service-card-wrap">
+              <div class="row">
+                <div class="col-md-6 mmt-45">
+                  <div class="service-card style1">
+                    <span class="service-icon">
+                      <img
+                        src="assets/img/service/service-icon-1.png"
+                        alt="Image"
+                      />
+                    </span>
+                    <h3>
+                      <a href="service-details.html">Deadline Reminders</a>
+                    </h3>
+                    <p>
+                      Lorem ipsum dolor sit ametus situlo consec tetur adicingus
+                      elittque coris sapite illo sit.
+                    </p>
+                  </div>
+                  <div class="service-card style1">
+                    <span class="service-icon">
+                      <img
+                        src="assets/img/service/service-icon-2.png"
+                        alt="Image"
+                      />
+                    </span>
+                    <h3>
+                      <a href="service-details.html">Drag Functionality</a>
+                    </h3>
+                    <p>
+                      Lorem ipsum dolor sit ametus situlo consec tetur adicingus
+                      elittque coris sapite illo sit.
+                    </p>
+                  </div>
                 </div>
-                <div class="col-xl-6 col-lg-12">
-                    <div class="service-content">
-                        <div class="content-title style1">
-                            <span>Our Services</span>
-                            <h2>Sispay tirelesly Providing 24 hours Services each an every Day</h2>
-
-                        </div>
-                        <a href="service-one.html" class="btn style1">View All Services</a>
-                    </div>
+                <div class="col-md-6">
+                  <div class="service-card style1">
+                    <span class="service-icon">
+                      <img
+                        src="assets/img/service/service-icon-3.png"
+                        alt="Image"
+                      />
+                    </span>
+                    <h3><a href="service-details.html">Simple Dashboard</a></h3>
+                    <p>
+                      Lorem ipsum dolor sit ametus situlo consec tetur adicingus
+                      elittque coris sapite illo sit.
+                    </p>
+                  </div>
+                  <div class="service-card style1">
+                    <span class="service-icon">
+                      <img
+                        src="assets/img/service/service-icon-4.png"
+                        alt="Image"
+                      />
+                    </span>
+                    <h3>
+                      <a href="service-details.html">Email Notification</a>
+                    </h3>
+                    <p>
+                      Lorem ipsum dolor sit ametus situlo consec tetur adicingus
+                      elittque coris sapite illo sit.
+                    </p>
+                  </div>
                 </div>
+              </div>
             </div>
+            <div class="col-xl-6 col-lg-12">
+              <div class="service-content">
+                <div class="content-title style1">
+                  <span>Our Services</span>
+                  <h2>Providing Services For Last 25 Years With Reputation</h2>
+                  <p>
+                    There are many variations of passages of Lorem Ipsum amet
+                    avoilble but majority have suffered alteration in some form,
+                    by injected humur or randomise words which don't sure amet
+                    sit dolor quras alto lorem.
+                  </p>
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Molestias id illum nam eligendi ut porro iusto sunt,
+                    cupiditate repudiandae ipsam.
+                  </p>
+                </div>
+                <a href="service-one.html" class="btn style1"
+                  >View All Services</a
+                >
+              </div>
+            </div>
+          </div>
         </div>
-    </section>
+      </section>
 
 
     <section class="app-wrap style3 ptb-100">

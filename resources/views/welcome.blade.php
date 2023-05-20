@@ -70,7 +70,8 @@
                     <nav class="navbar navbar-expand-md navbar-light">
                         <a class="navbar-brand" href="index.html">
                             <img class="logo-light" src="{{ asset('logo.png') }}" alt="logo" style="width:230px;">
-                            <img class="logo-dark" src="{{ asset('logo-white.png') }}" alt="logo" style="width:230px;">
+                            <img class="logo-dark" src="{{ asset('logo-white.png') }}" alt="logo"
+                                style="width:230px;">
                         </a>
                         <div class="collapse navbar-collapse main-menu-wrap" id="navbarSupportedContent">
                             <div class="menu-close xl-none">
@@ -78,12 +79,12 @@
                             </div>
                             <ul class="navbar-nav ms-auto">
                                 <li class="nav-item">
-                                    <a href="{{route('welcome')}}" class="nav-link active">
+                                    <a href="{{ route('welcome') }}" class="nav-link active">
                                         Home
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="{{route('about')}}" class="nav-link">
+                                    <a href="{{ route('about') }}" class="nav-link">
                                         About Us
                                     </a>
                                 </li>
@@ -248,7 +249,7 @@
             <div class="container">
                 <div class="section-title style1 text-center mb-40">
                     <span>Our Feature</span>
-                    <h2>Payment Services Worldwide</h2>
+                    <h2>With SISPAY You Can</h2>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-xl-4 col-lg-6 col-md-6">
@@ -256,7 +257,7 @@
                             <div class="feature-info">
                                 <div class="feature-title">
                                     <span><img src="assets/img/feature/feature-icon-4.png" alt="Image"></span>
-                                    <h3>Protect Your Card</h3>
+                                    <h3>WITHDRAW MONEY</h3>
                                 </div>
                                 <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
                                     endis velit sed fuga volup tation sit praising pain.</p>
@@ -268,7 +269,7 @@
                             <div class="feature-info">
                                 <div class="feature-title">
                                     <span><img src="assets/img/feature/feature-icon-5.png" alt="Image"></span>
-                                    <h3>Send Money</h3>
+                                    <h3>TRANSFER MONEY </h3>
                                 </div>
                                 <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
                                     endis velit sed fuga volup tation sit praising pain.</p>
@@ -280,7 +281,7 @@
                             <div class="feature-info">
                                 <div class="feature-title">
                                     <span><img src="assets/img/feature/feature-icon-6.png" alt="Image"></span>
-                                    <h3>Online Banking</h3>
+                                    <h3>OTHER SERVICES</h3>
                                 </div>
                                 <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
                                     endis velit sed fuga volup tation sit praising pain.</p>
@@ -290,293 +291,257 @@
                 </div>
             </div>
         </section>
-<section class="security-wrap ptb-100">
-        <div class="container">
-          <div class="row gx-5 align-items-center">
-            <div class="col-lg-6 col-12 order-lg-1 order-2">
-              <div class="security-content">
-                <div class="content-title style1">
-                  <span>Banking Security</span>
-                  <h2>The Safest Way To Transact Your Money Fast</h2>
-                  <p>
-                    There are many variations of passages of Lorem Ipsum amet
-                    avoilble but majority have suffered alteration in some form,
-                    by injected humur or randomise words which don't sure amet
-                    sit dolor quras alto lorem.
-                  </p>
-                </div>
-                <div class="feature-item-wrap">
-                  <div class="feature-item">
-                    <div class="feature-icon">
-                      <img
-                        src="assets/img/security/security-icon-1.png"
-                        alt="Image"
-                      />
-                    </div>
-                    <div class="feature-text">
-                      <h3>Pay Online Securely</h3>
-                      <p>
-                        Vestibulum ac diam sit amet quam vehicula elemen tum sed
-                        sit amet dui praesent sapien pellen tesque .
-                      </p>
-                    </div>
-                  </div>
-                  <div class="feature-item">
-                    <div class="feature-icon">
-                      <img
-                        src="assets/img/security/security-icon-2.png"
-                        alt="Image"
-                      />
-                    </div>
-                    <div class="feature-text">
-                      <h3>Convert Your Money In Seconds</h3>
-                      <p>
-                        Vestibulum ac diam sit amet quam vehicula elemen tum sed
-                        sit amet dui praesent sapien pellen tesque.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-6 col-12 order-lg-2 order-1">
-              <div class="security-img-wrap">
-                <img
-                  src="assets/img/security/security-shape-1.png"
-                  alt="Image"
-                  class="security-shape-one"
-                />
-                <img
-                  src="assets/img/security/security-shape-2.png"
-                  alt="Image"
-                  class="security-shape-two"
-                />
-                <img src="{{asset('24.png')}}" alt="Image" />
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="service-wrap style1 pt-100 pb-75">
-        <div class="container">
-          <div class="row gx-5 align-items-center">
-            <div class="col-xl-6 col-lg-12 service-card-wrap">
-              <div class="row">
-                <div class="col-md-6 mmt-45">
-                  <div class="service-card style1">
-                    <span class="service-icon">
-                      <img
-                        src="assets/img/service/service-icon-1.png"
-                        alt="Image"
-                      />
-                    </span>
-                    <h3>
-                      <a href="service-details.html">Deadline Reminders</a>
-                    </h3>
-                    <p>
-                      Lorem ipsum dolor sit ametus situlo consec tetur adicingus
-                      elittque coris sapite illo sit.
-                    </p>
-                  </div>
-                  <div class="service-card style1">
-                    <span class="service-icon">
-                      <img
-                        src="assets/img/service/service-icon-2.png"
-                        alt="Image"
-                      />
-                    </span>
-                    <h3>
-                      <a href="service-details.html">Drag Functionality</a>
-                    </h3>
-                    <p>
-                      Lorem ipsum dolor sit ametus situlo consec tetur adicingus
-                      elittque coris sapite illo sit.
-                    </p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="service-card style1">
-                    <span class="service-icon">
-                      <img
-                        src="assets/img/service/service-icon-3.png"
-                        alt="Image"
-                      />
-                    </span>
-                    <h3><a href="service-details.html">Simple Dashboard</a></h3>
-                    <p>
-                      Lorem ipsum dolor sit ametus situlo consec tetur adicingus
-                      elittque coris sapite illo sit.
-                    </p>
-                  </div>
-                  <div class="service-card style1">
-                    <span class="service-icon">
-                      <img
-                        src="assets/img/service/service-icon-4.png"
-                        alt="Image"
-                      />
-                    </span>
-                    <h3>
-                      <a href="service-details.html">Email Notification</a>
-                    </h3>
-                    <p>
-                      Lorem ipsum dolor sit ametus situlo consec tetur adicingus
-                      elittque coris sapite illo sit.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-6 col-lg-12">
-              <div class="service-content">
-                <div class="content-title style1">
-                  <span>Our Services</span>
-                  <h2>Providing Services For Last 25 Years With Reputation</h2>
-                  <p>
-                    There are many variations of passages of Lorem Ipsum amet
-                    avoilble but majority have suffered alteration in some form,
-                    by injected humur or randomise words which don't sure amet
-                    sit dolor quras alto lorem.
-                  </p>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Molestias id illum nam eligendi ut porro iusto sunt,
-                    cupiditate repudiandae ipsam.
-                  </p>
-                </div>
-                <a href="service-one.html" class="btn style1"
-                  >View All Services</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-
-    <section class="app-wrap style3 ptb-100">
-        <div class="container">
-            <div class="row align-items-center gx-5">
-                <div class="col-lg-6">
-                    <div class="app-img-wrap">
-                        <img class="bounce" src="{{ asset('8.jpg') }}" alt="Image">
-                        <img class="app-shape-one" src="assets/img/app/app-shape-1.png" alt="Image">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="app-content">
-                        <div class="content-title style1">
-                            <span>Download Our Mobile App</span>
-                            <h2>You Can Find All Things You Need In Our App</h2>
-
+        <section class="security-wrap ptb-100">
+            <div class="container">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 col-12 order-lg-1 order-2">
+                        <div class="security-content">
+                            <div class="content-title style1">
+                                <span>Banking Security</span>
+                                <h2>The Safest Way To Transact Your Money Fast</h2>
+                            </div>
+                            <div class="feature-item-wrap">
+                                <div class="feature-item">
+                                    <div class="feature-icon">
+                                        <img src="assets/img/security/security-icon-1.png" alt="Image" />
+                                    </div>
+                                    <div class="feature-text">
+                                        <h3>Safest Way for SMEs</h3>
+                                        <p>
+                                           Protect Your Business: SISPAY provides SMEs with the safest way to transact money. Eliminate the risks associated with handling cash and reduce the chances of fraud or theft.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="feature-item">
+                                    <div class="feature-icon">
+                                        <img src="assets/img/security/security-icon-2.png" alt="Image" />
+                                    </div>
+                                    <div class="feature-text">
+                                        <h3>Bank-Level Security</h3>
+                                        <p>
+                                            Our robust security measures ensure that your transactions are encrypted and protected from unauthorized access. Focus on growing your business with peace of mind
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="app-btn">
-                            <a href="https://www.apple.com/app-store/"><img src="assets/img/apple-store.png"
-                                    alt="Image"></a>
-                            <a href="https://play.google.com/store/apps"><img src="assets/img/play-store.png"
-                                    alt=""></a>
+                    </div>
+                    <div class="col-lg-6 col-12 order-lg-2 order-1">
+                        <div class="security-img-wrap">
+                            <img src="assets/img/security/security-shape-1.png" alt="Image"
+                                class="security-shape-one" />
+                            <img src="assets/img/security/security-shape-2.png" alt="Image"
+                                class="security-shape-two" />
+                            <img src="{{ asset('24.png') }}" alt="Image" />
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <footer class="footer-wrap bg-rock">
-        <div class="container">
-            <img src="assets/img/footer-shape-1.png" alt="Image" class="footer-shape-one">
-            <img src="assets/img/footer-shape-2.png" alt="Image" class="footer-shape-two">
-            <div class="row pt-100 pb-75">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                    <div class="footer-widget">
-                        <a href="index.html" class="footer-logo">
-                            <img src="{{ asset('logo-white.png') }}" alt="Image" style="width:230px;">
-                        </a>
-                        <p class="comp-desc">
-                            We have hardware device inbuilt with the autorun Fintech software that can allow smartphones
-                            to read ATM cards. The device will allow users to insert their ATM cards into their
-                            smartphones, enabling them to make cashless transactions easily.
-                        </p>
-                        <div class="social-link">
-                            <ul class="social-profile list-style style1">
+        </section>
+        <section class="service-wrap style1 pt-100 pb-75">
+            <div class="container">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-xl-6 col-lg-12 service-card-wrap">
+                        <div class="row">
+                            <div class="col-md-6 mmt-45">
+                                <div class="service-card style1">
+                                    <span class="service-icon">
+                                        <img src="assets/img/service/service-icon-1.png" alt="Image" />
+                                    </span>
+                                    <h3>
+                                        <a href="service-details.html">Deadline Reminders</a>
+                                    </h3>
+                                    <p>
+                                        Lorem ipsum dolor sit ametus situlo consec tetur adicingus
+                                        elittque coris sapite illo sit.
+                                    </p>
+                                </div>
+                                <div class="service-card style1">
+                                    <span class="service-icon">
+                                        <img src="assets/img/service/service-icon-2.png" alt="Image" />
+                                    </span>
+                                    <h3>
+                                        <a href="">Market Potential</a>
+                                    </h3>
+                                    <p>
+                                       Join the Cashless Revolution: As the world rapidly shifts towards digital payments, SMEs are seeking secure and convenient payment solutions. SISPAY caters specifically to the needs of SMEs, offering a safe and efficient way to transact
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="service-card style1">
+                                    <span class="service-icon">
+                                        <img src="assets/img/service/service-icon-3.png" alt="Image" />
+                                    </span>
+                                    <h3><a href="service-details.html">Competitive Advantage</a></h3>
+                                    <p>
+                                       Tailored for SMEs: Unlike generic payment solutions, SISPAY understands the unique challenges faced by SMEs and provides a user-friendly platform designed specifically for their needs
+                                    </p>
+                                </div>
+                                <div class="service-card style1">
+                                    <span class="service-icon">
+                                        <img src="assets/img/service/service-icon-4.png" alt="Image" />
+                                    </span>
+                                    <h3>
+                                        <a href="">Trusted Partner</a>
+                                    </h3>
+                                    <p>
+                                        We have built a reputation as a trusted partner for SMEs, helping them streamline their payment processes, reduce costs, and enhance security
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-12">
+                        <div class="service-content">
+                            <div class="content-title style1">
+                                <span>Our Services</span>
+                                <h2>We provide 24/7 Services</h2>
+                                <p>
+                                    Anytime, Anywhere Access: SISPAY is committed to providing round-the-clock services.
+                                    Whether it's day or night, weekdays or weekends, our support team is here to assist
+                                    you with any inquiries or issues.
+                                    
+                                </p>
+                                <p>
+                                    Uninterrupted Convenience: Never worry about time constraints or service
+                                    availability. With SISPAY, you can make cashless transactions whenever you need,
+                                    ensuring a seamless and uninterrupted payment experience.
+                                </p>
+                            </div>
+                            <a href="" class="btn style1">Join Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="app-wrap style3 ptb-100">
+            <div class="container">
+                <div class="row align-items-center gx-5">
+                    <div class="col-lg-6">
+                        <div class="app-img-wrap">
+                            <img class="bounce" src="{{ asset('8.jpg') }}" alt="Image">
+                            <img class="app-shape-one" src="assets/img/app/app-shape-1.png" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="app-content">
+                            <div class="content-title style1">
+                                <span>Download Our Mobile App</span>
+                                <h2>You Can Find All Things You Need In Our App</h2>
+
+                            </div>
+                            <div class="app-btn">
+                                <a href="https://www.apple.com/app-store/"><img src="assets/img/apple-store.png"
+                                        alt="Image"></a>
+                                <a href="https://play.google.com/store/apps"><img src="assets/img/play-store.png"
+                                        alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="footer-wrap bg-rock">
+            <div class="container">
+                <img src="assets/img/footer-shape-1.png" alt="Image" class="footer-shape-one">
+                <img src="assets/img/footer-shape-2.png" alt="Image" class="footer-shape-two">
+                <div class="row pt-100 pb-75">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                        <div class="footer-widget">
+                            <a href="index.html" class="footer-logo">
+                                <img src="{{ asset('logo-white.png') }}" alt="Image" style="width:230px;">
+                            </a>
+                            <p class="comp-desc">
+                                We have hardware device inbuilt with the autorun Fintech software that can allow
+                                smartphones
+                                to read ATM cards. The device will allow users to insert their ATM cards into their
+                                smartphones, enabling them to make cashless transactions easily.
+                            </p>
+                            <div class="social-link">
+                                <ul class="social-profile list-style style1">
+                                    <li>
+                                        <a target="_blank" href="https://facebook.com/">
+                                            <i class="ri-facebook-fill"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a target="_blank" href="https://twitter.com/">
+                                            <i class="ri-twitter-fill"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a target="_blank" href="https://linkedin.com/">
+                                            <i class="ri-linkedin-fill"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a target="_blank" href="https://instagram.com/">
+                                            <i class="ri-pinterest-fill"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                        <div class="footer-widget">
+                            <h3 class="footer-widget-title">Our Company</h3>
+                            <ul class="footer-menu list-style">
                                 <li>
-                                    <a target="_blank" href="https://facebook.com/">
-                                        <i class="ri-facebook-fill"></i>
+                                    <a href="about.html">
+                                        <i class="flaticon-next"></i>
+                                        Company &amp; Team
                                     </a>
                                 </li>
                                 <li>
-                                    <a target="_blank" href="https://twitter.com/">
-                                        <i class="ri-twitter-fill"></i>
+                                    <a href="service-one.html">
+                                        <i class="flaticon-next"></i>
+                                        Our Services
                                     </a>
                                 </li>
                                 <li>
-                                    <a target="_blank" href="https://linkedin.com/">
-                                        <i class="ri-linkedin-fill"></i>
+                                    <a href="contact.html">
+                                        <i class="flaticon-next"></i>
+                                        Contact Us
                                     </a>
                                 </li>
                                 <li>
-                                    <a target="_blank" href="https://instagram.com/">
-                                        <i class="ri-pinterest-fill"></i>
+                                    <a href="privacy-policy.html">
+                                        <i class="flaticon-next"></i>
+                                        Privacy Policy
                                     </a>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                    <div class="footer-widget">
-                        <h3 class="footer-widget-title">Our Company</h3>
-                        <ul class="footer-menu list-style">
-                            <li>
-                                <a href="about.html">
-                                    <i class="flaticon-next"></i>
-                                    Company &amp; Team
-                                </a>
-                            </li>
-                            <li>
-                                <a href="service-one.html">
-                                    <i class="flaticon-next"></i>
-                                    Our Services
-                                </a>
-                            </li>
-                            <li>
-                                <a href="contact.html">
-                                    <i class="flaticon-next"></i>
-                                    Contact Us
-                                </a>
-                            </li>
-                            <li>
-                                <a href="privacy-policy.html">
-                                    <i class="flaticon-next"></i>
-                                    Privacy Policy
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6">
-                    <div class="footer-widget">
+                    <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6">
+                        <div class="footer-widget">
 
-                        </a>
-                        </li>
-                        </ul>
+                            </a>
+                            </li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                    <div class="footer-widget">
-                        <h3 class="footer-widget-title">Suggestion</h3>
-                        <p class="newsletter-text">Make your Suggestion here
-                            content</p>
-                        <form action="#" class="newsletter-form">
-                            <input type="email" placeholder="Your Email">
-                            <button type="button">Submit</button>
-                        </form>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                        <div class="footer-widget">
+                            <h3 class="footer-widget-title">Suggestion</h3>
+                            <p class="newsletter-text">Make your Suggestion here
+                                content</p>
+                            <form action="#" class="newsletter-form">
+                                <input type="email" placeholder="Your Email">
+                                <button type="button">Submit</button>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="copyright-text">
-            <p> <i class="ri-copyright-line"></i>{{ date('Y') }} SISPAY. All Rights Reserved </p>
-        </div>
-    </footer>
+            <div class="copyright-text">
+                <p> <i class="ri-copyright-line"></i>{{ date('Y') }} SISPAY. All Rights Reserved </p>
+            </div>
+        </footer>
 
     </div>
 

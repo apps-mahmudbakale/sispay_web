@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="assets/css/dark-theme.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <title>SISPAY| Home</title>
-    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="{{asset('favicon.png')}}">
 </head>
 
 <body>

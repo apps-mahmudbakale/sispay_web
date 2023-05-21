@@ -236,7 +236,7 @@
                                     Airtime, data, pay bills and many
                                     more.</li>
                             </ul>
-                            <a href="about.html" class="btn style1">More About us</a>
+                            <a href="{{route('about')}}" class="btn style1">More About us</a>
                         </div>
                     </div>
                 </div>
@@ -259,8 +259,8 @@
                                     <span><img src="assets/img/feature/feature-icon-4.png" alt="Image"></span>
                                     <h3>WITHDRAW MONEY</h3>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
-                                    endis velit sed fuga volup tation sit praising pain.</p>
+                                {{-- <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
+                                    endis velit sed fuga volup tation sit praising pain.</p> --}}
                             </div>
                         </div>
                     </div>
@@ -271,8 +271,8 @@
                                     <span><img src="assets/img/feature/feature-icon-5.png" alt="Image"></span>
                                     <h3>TRANSFER MONEY </h3>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
-                                    endis velit sed fuga volup tation sit praising pain.</p>
+                                {{-- <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
+                                    endis velit sed fuga volup tation sit praising pain.</p> --}}
                             </div>
                         </div>
                     </div>
@@ -283,8 +283,8 @@
                                     <span><img src="assets/img/feature/feature-icon-6.png" alt="Image"></span>
                                     <h3>OTHER SERVICES</h3>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
-                                    endis velit sed fuga volup tation sit praising pain.</p>
+                                {{-- <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer
+                                    endis velit sed fuga volup tation sit praising pain.</p> --}}
                             </div>
                         </div>
                     </div>
@@ -346,14 +346,13 @@
                             <div class="col-md-6 mmt-45">
                                 <div class="service-card style1">
                                     <span class="service-icon">
-                                        <img src="assets/img/service/service-icon-1.png" alt="Image" />
+                                        <img src="assets/img/security/security-icon-2.png" alt="Image" />
                                     </span>
                                     <h3>
-                                        <a href="service-details.html">Deadline Reminders</a>
+                                        <a href="">Security</a>
                                     </h3>
                                     <p>
-                                        Lorem ipsum dolor sit ametus situlo consec tetur adicingus
-                                        elittque coris sapite illo sit.
+                                        Our robust security measures ensure that your transactions are encrypted and protected from unauthorized access. Focus on growing your business with peace of mind
                                     </p>
                                 </div>
                                 <div class="service-card style1">

@@ -346,7 +346,7 @@
                             <div class="col-md-6 mmt-45">
                                 <div class="service-card style1">
                                     <span class="service-icon">
-                                        <img src="assets/img/security/security-icon-2.png" alt="Image" />
+                                        <img src="{{asset('img/security/security-icon-2.png')}}" alt="Image" />
                                     </span>
                                     <h3>
                                         <a href="">Security</a>

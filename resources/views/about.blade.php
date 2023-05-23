@@ -422,7 +422,7 @@
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="team-card style1">
                   <div class="team-img">
-                    <img src="{{asset('murtala.jpeg')}}" alt="Image" />
+                    <img src="{{asset('murtala.jpg')}}" alt="Image" />
                     <ul class="social-profile list-style style1">
                       <li>
                         <a target="_blank" href="https://facebook.com/">
